@@ -17,7 +17,7 @@ $ cd discord-boost
 $ python3 setup.py install
 ```
 
-<h1> **Usage**
+<h1> **Usage** <h1>
 
 This is to be used under an `on_message` event.
 
